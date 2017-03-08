@@ -1,0 +1,6 @@
+pl\NBP\exchangeRates\ConsoleInterface.class
+pl\NBP\exchangeRates\CurrencyEnum.class
+pl\NBP\exchangeRates\MidCurrencyValue.class
+Main.class
+pl\NBP\exchangeRates\Rates.class
+pl\NBP\exchangeRates\Currency.class
